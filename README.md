@@ -1,1 +1,1 @@
-# IBM--stegnography-tool-
+# IBM--steganography-tool-
